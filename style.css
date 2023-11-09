@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2? family= Lora:wght@500;700 & family= Roboto+Slab:wght@400;700 & display=swap');
+
+:root{
+    --corPrincipal: rgb(75, 12, 12);
+}
+
+body{
+    background: rgb(228, 228, 158);
+}
+
+
+.imagem-Perfil img{
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid rgb(10, 56, 10);
+}
+
+.container{
+    text-align: center;
+   
+}
+
+.info-Perfil{
+    color: rgb(10, 56, 10);
+    width: 400px;
+    margin:  0 auto;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li{
+    padding: 2px 0;
+}
+
+/* Icones */
+ion-icon{
+    color: rgb(10, 56, 10);
+}
