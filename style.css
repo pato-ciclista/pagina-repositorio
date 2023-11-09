@@ -12,7 +12,7 @@ body{
 .imagem-Perfil img{
     width: 200px;
     border-radius: 50%;
-    border: 3px solid rgb(10, 56, 10);
+    border: 3px solid rgb(139, 17, 1);
 }
 
 .container{
@@ -21,7 +21,7 @@ body{
 }
 
 .info-Perfil{
-    color: rgb(10, 56, 10);
+    color: rgb(13, 78, 13);
     width: 400px;
     margin:  0 auto;
 }
@@ -37,5 +37,5 @@ ul li{
 
 /* Icones */
 ion-icon{
-    color: rgb(10, 56, 10);
+    color: rgb(13, 78, 13);
 }
